@@ -1,0 +1,16 @@
+# ninja log v5
+16	330	7305175968587396	CMakeFiles/Hospedagem.dir/Cliente.c.obj	e26a1cf834ed6fe6
+8	441	7305137138709230	CMakeFiles/Hospedagem.dir/Projeto_1.c.obj	ee0f19a453274d5c
+9	391	7305145921244936	CMakeFiles/Hospedagem.dir/APRESENTACAO.c.obj	577cfaeae3a5b1b6
+28	451	7305137138728879	CMakeFiles/Hospedagem.dir/RESERVA.c.obj	a37397880567fec9
+3	341	7305175968685840	CMakeFiles/Hospedagem.dir/QUARTO.c.obj	c3d49db8ac7bed8a
+1	269	7305830695338871	build.ninja	c1e09ab2dc861793
+10	332	7305175968607244	CMakeFiles/Hospedagem.dir/DATA.c.obj	4fa2565ae8c98bc9
+18	460	7305836833203734	CMakeFiles/Hospedagem.dir/RESERVA.c.obj	a37397880567fec9
+3	464	7305836833213453	CMakeFiles/Hospedagem.dir/APRESENTACAO.c.obj	577cfaeae3a5b1b6
+24	467	7305836833164785	CMakeFiles/Hospedagem.dir/main.c.obj	6c4fe83ff7b1012f
+10	473	7305836833311811	CMakeFiles/Hospedagem.dir/QUARTO.c.obj	c3d49db8ac7bed8a
+3	192	7305858747535098	CMakeFiles/Hospedagem.dir/APRESENTACAO.c.obj	577cfaeae3a5b1b6
+15	194	7305858747535098	CMakeFiles/Hospedagem.dir/RESERVA.c.obj	a37397880567fec9
+9	195	7305858747535098	CMakeFiles/Hospedagem.dir/Cliente.c.obj	e26a1cf834ed6fe6
+21	205	7305858747643704	CMakeFiles/Hospedagem.dir/main.c.obj	6c4fe83ff7b1012f

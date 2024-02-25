@@ -1,0 +1,3 @@
+C:/Users/hende/CLionProjects/Hospedagem/cmake-build-debug/CMakeFiles/Hospedagem.dir
+C:/Users/hende/CLionProjects/Hospedagem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hende/CLionProjects/Hospedagem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
